@@ -228,3 +228,5 @@ jekyll-archives:
 jekyll_admin:
   hidden_links:
   homepage: ""
+
+future : true
